@@ -1,3 +1,3 @@
 SELECT DISTINCT
-    job_ttle_short
+    job_title_short
 FROM job_postings_fact;
