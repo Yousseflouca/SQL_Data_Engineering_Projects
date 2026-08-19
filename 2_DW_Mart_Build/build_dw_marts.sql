@@ -1,3 +1,4 @@
+-- "C:\Users\Youssef.Louca\DuckDB\duckdb.exe" dw_marts.duckdb ".read build_dw_marts.sql"
 
 -- Step 1: DW - Create start schema tables
 .read 01_create_tables_dw.sql
